@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+16,Rob,CA,25.00,Tile,123.00,3.50,4.15,430.50,510.45,235.24,1176.19
+08,Google,CA,25.00,Tile,123.00,3.50,4.15,430.50,510.45,235.24,1176.19
+09,Mia,CA,25.00,Tile,123.00,3.50,4.15,430.50,510.45,235.24,1176.19
+20,mmm,CA,25.00,Tile,123.00,3.50,4.15,430.50,510.45,235.24,1176.19

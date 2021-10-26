@@ -1,0 +1,7 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,OrderDate
+1,Ada Lovelace,CA,25.00,Tile,249.00,3.50,4.15,871.50,1033.35,476.21,2381.06,06-01-2013
+3,Albert Einstein,KY,6.00,Carpet,217.00,2.25,2.10,488.25,455.70,56.64,1000.59,06-02-2013
+16,Rob,CA,25.00,Carpet,123.00,2.25,2.10,276.75,258.30,133.76,668.81,12-12-2021
+8,Google,CA,25.00,Tile,123.00,3.50,4.15,430.50,510.45,235.24,1176.19,12-12-2021
+9,Mia,CA,25.00,Tile,123.00,3.50,4.15,430.50,510.45,235.24,1176.19,12-12-2021
+10,Albert,KY,6.00,Tile,555.00,3.50,4.15,1942.50,2303.25,254.75,4500.50,12-12-2021
