@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+9,Monica Leung,CA,25.00,Wood,115.25,5.15,4.75,593.54,547.44,285.25,1426.23
